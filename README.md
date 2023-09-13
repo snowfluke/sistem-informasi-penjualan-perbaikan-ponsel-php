@@ -1,4 +1,4 @@
-Sistem informasi penjualan dan perbaikan ponsel php
+Sistem informasi penjualan dan perbaikan ponsel menggunakan php native
 
 ## Preview
 
